@@ -1,2 +1,62 @@
 
 /* Your CSS Code here. */
+/* Button styles */
+.btn {
+  margin-bottom: 1rem;
+}
+
+.btn-lg {
+  font-size: 1.25rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+}
+
+.btn-sm {
+  font-size: 0.875rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.2rem;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.btn-outline-secondary {
+  color: #868e96;
+  border-color: #868e96;
+}
+
+.btn-success {
+  background-color: #28a745;
+  color: white;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  color: black;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.btn-light {
+  background-color: #f8f9fa;
+  color: black;
+}
+
+.btn-link {
+  color: #007bff;
+  text-decoration: none;
+}
