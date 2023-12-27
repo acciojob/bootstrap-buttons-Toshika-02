@@ -1,6 +1,10 @@
 
 /* Your CSS Code here. */
 /* Button styles */
+#cont{
+	 padding: 30px;
+    margin-top: 20px;
+}
 .btn {
   margin-bottom: 1rem;
 }
